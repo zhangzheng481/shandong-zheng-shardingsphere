@@ -1,4 +1,4 @@
-# 利用shardingsphere框架进行分表
+## 利用shardingsphere框架进行分表
 
 ### 1. 框架理论
 ![img.png](img.png)
